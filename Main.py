@@ -1,4 +1,4 @@
-   from typing import List
+ from typing import List
 
 def merge_sort(data):
     if len(data)>1:
